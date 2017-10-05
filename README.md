@@ -1,2 +1,2 @@
-# coursera
-This is a repository for my coursera work
+# coursera r programming
+This is a repository for my r programming coursera work
